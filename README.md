@@ -44,8 +44,17 @@ Dedicated to classification analyses, including:
 
 ## ⚙️ Dependencies
 
-The repository uses **Python (≥3.10)** and relies onlibraries such as:
-- `pandas`, `numpy`, `scikit-learn`, `lightgbm` , 'xgboost'  
-- ``matplotlib`, `seaborn`, `eboruta`, `statsmodels`
+This repository uses **Python (3.11)** and relies on the following libraries:
+
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `lightgbm`
+- `xgboost`
+- `matplotlib`
+- `seaborn`
+- `boruta`
+- `statsmodels`
+
 
 ---
