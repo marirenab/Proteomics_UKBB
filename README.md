@@ -17,7 +17,7 @@ Contains scripts for:
 - Correction for **confounders**
 
 ### **`Stats/`**
-Contains statistical analysis scripts, for group comparisons between **PD**, **healthy controls (HC)**, and other **neurodegenerative disorders****. The methods include:
+Contains statistical analysis scripts, for group comparisons between **PD**, **healthy controls (HC)**, and other **neurodegenerative disorders**. The methods include:
 - **Matched analyses** controlling for age, sex, and confounders
 - **Mann–Whitney U tests** on residualised data 
 - **Cox regression** for survival analysis  
