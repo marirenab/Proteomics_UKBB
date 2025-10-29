@@ -11,8 +11,10 @@ The analysis aims to identify predictive protein biomarkers related to Parkinson
 Contains scripts for:
 - Extraction and cleaning of **clinical and proteomic data**  
 - Creation of **training and test sets**  
-- **Variance partitioning analysis** of OLINK data  
-- Preprocessing of OLINK data and correction for **confounders**
+- **Variance partitioning analysis** of OLINK data
+- Preprocessing of OLINK data
+- Imputation of OLINK data
+- Correction for **confounders**
 
 ### **`Stats/`**
 Contains statistical analysis scripts, including:
