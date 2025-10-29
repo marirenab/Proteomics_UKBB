@@ -1,7 +1,7 @@
 # 🧬 UK Biobank OLINK Proteomics Analysis
 
 This repository contains the code for **preprocessing**, **feature selection**, and **machine learning modelling** of the **UK Biobank OLINK proteomics** dataset.  
-The analysis aims to identify predictive protein biomarkers related to Parkinson’s Disease and other neurodegenerative conditions.
+The analysis aims to identify predictive protein biomarkers related to Parkinson’s Disease (PD) and other neurodegenerative conditions.
 
 ---
 
@@ -33,8 +33,9 @@ Includes machine learning–based feature selection methods:
 ### **`Model/`**
 Contains scripts for:
 - **Automated job submission** of different model configurations
-- Model training on **different feature selection sets** 
-- Evaluation using various **optimisation metrics**  
+- Model training on **different feature selection sets**
+- Model training on either prodromals alone or on prodromals + baseline PD.
+- Evaluation for incident PD prediction using various **optimisation metrics** 
 
 
 ### **`classification/`**
