@@ -11,8 +11,8 @@ The analysis aims to identify protein biomarkers and predictive features related
 Contains scripts for:
 - Extraction and cleaning of **clinical and proteomic data**  
 - Creation of **training and test sets**  
-- **Exploratory variance partitioning analysis** of OLINK data  
-- Preprocessing and correction for **potential confounders**
+- **Variance partitioning analysis** of OLINK data  
+- Preprocessing of OLINK data and correction for **confounders**
 
 ### **`Stats/`**
 Contains statistical analysis scripts, including:
