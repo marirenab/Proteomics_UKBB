@@ -1,0 +1,51 @@
+# --- Ignore data and outputs ---
+*.csv
+*.tsv
+*.txt
+*.xlsx
+*.xls
+*.ods
+*.rds
+*.rda
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.pkl
+*.sav
+*.joblib
+*.mat
+
+# --- Ignore compiled/intermediate files ---
+*.o
+*.e
+*.so
+*.pyc
+*.pyo
+*.pdb
+*.rbc
+__pycache__/
+
+# --- Ignore logs and temporary files ---
+*.log
+*.tmp
+*.swp
+*.bak
+
+# --- Ignore Jupyter artifacts ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- Ignore environment and config folders ---
+.env
+.venv/
+env/
+venv/
+*.DS_Store
+
+# --- Allow only code and notebooks ---
+!*.py
+!*.ipynb
+!*.sh
+!*.R
+
