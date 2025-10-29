@@ -53,7 +53,7 @@ This repository uses **Python (3.11)** and relies on the following libraries:
 - `xgboost`
 - `matplotlib`
 - `seaborn`
-- `boruta`
+- `eboruta`
 - `statsmodels`
 
 
